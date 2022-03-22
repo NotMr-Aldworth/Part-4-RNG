@@ -16,7 +16,7 @@ namespace Part_4_RNG
         {
             Application.EnableVisualStyles();
             Application.SetCompatibleTextRenderingDefault(false);
-            Application.Run(new Part4RNG());
+            Application.Run(new RandomNumbers());
         }
     }
 }
